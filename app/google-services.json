@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "294599214395",
+    "project_id": "dunklingmovies",
+    "storage_bucket": "dunklingmovies.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294599214395:android:22931318b5bb8feb01231e",
+        "android_client_info": {
+          "package_name": "com.example.duckling_movies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294599214395-7hbk53olpkd621mn6e5tlup9i0iert0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVFhr6DKF-DNnSVzOo-c0InCR2BBc5X8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294599214395-7hbk53olpkd621mn6e5tlup9i0iert0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
