@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.example.duckling_movies">
+    package="com.example.duckling_movies" >
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -14,21 +14,20 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Material3.Dark"
-        tools:targetApi="31">
+        tools:targetApi="31" >
+        <activity
+            android:name=".Anime_feed"
+            android:exported="false" />
         <activity
             android:name=".PostAnimes"
-            android:exported="false" />
+            android:exported="false"
+            android:theme="@style/Theme.Material3.Dark" />
         <activity
             android:name=".AnimeManage"
             android:exported="false" />
         <activity
-            android:name=".Anime_feed"
-            android:exported="false"
-            android:label="@string/title_activity_anime_feed"
-            android:theme="@style/NoActionBar" />
-        <activity
             android:name=".Register"
-            android:exported="true">
+            android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -41,7 +40,7 @@
             android:theme="@style/Theme.Material3.Dark.NoActionBar" />
         <activity
             android:name=".MainActivity"
-            android:exported="true" />
+            android:exported="false" />
     </application>
 
 </manifest>

@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "294599214395",
+    "firebase_url": "https://dunklingmovies-default-rtdb.firebaseio.com",
     "project_id": "dunklingmovies",
     "storage_bucket": "dunklingmovies.appspot.com"
   },

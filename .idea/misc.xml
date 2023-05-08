@@ -3,9 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/enzog/AndroidStudioProjects/DucklingMovies/app/src/main/res/layout/activity_anime_feed.xml" value="0.3625" />
+        <entry key="..\:/Users/enzog/AndroidStudioProjects/DucklingMovies/app/src/main/res/layout/activity_anime_manage.xml" value="0.25" />
         <entry key="..\:/Users/enzog/AndroidStudioProjects/DucklingMovies/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Users/enzog/AndroidStudioProjects/DucklingMovies/app/src/main/res/layout/activity_main.xml" value="0.3482789855072464" />
-        <entry key="..\:/Users/enzog/AndroidStudioProjects/DucklingMovies/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/enzog/AndroidStudioProjects/DucklingMovies/app/src/main/res/layout/activity_post_animes.xml" value="0.3625" />
+        <entry key="..\:/Users/enzog/AndroidStudioProjects/DucklingMovies/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/Users/enzog/AndroidStudioProjects/DucklingMovies/app/src/main/res/layout/content_anime_feed.xml" value="0.19010416666666666" />
       </map>
     </option>
   </component>
