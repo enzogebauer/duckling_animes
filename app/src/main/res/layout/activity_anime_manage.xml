@@ -1,9 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context=".AnimeManage">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+        android:padding="25dp"
+        android:layout_height="match_parent"
+        tools:context=".AnimeManage">
+
+
+    <TextView
+        android:id="@+id/text_view_animes_cadastrados"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Seus Animes Cadastrados"
+        tools:layout_editor_absoluteX="59dp"
+        tools:layout_editor_absoluteY="77dp"
+        android:layout_gravity="center"/>
+
+    <ListView
+        android:layout_width="343dp"
+        android:layout_height="326dp"
+        android:layout_gravity="center"
+        tools:layout_editor_absoluteX="59dp"
+        tools:layout_editor_absoluteY="156dp" />
+
+
+    <Button
+        android:id="@+id/btn_cadastrar_novo_anime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cadastra Novo anime"
+        tools:layout_editor_absoluteX="160dp"
+        tools:layout_editor_absoluteY="428dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        />
+
+    <Button
+        android:id="@+id/btn_voltar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Voltar"
+        tools:layout_editor_absoluteX="293dp"
+        tools:layout_editor_absoluteY="654dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        />
+</LinearLayout>

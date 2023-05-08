@@ -94,6 +94,7 @@ public class Login extends AppCompatActivity {
                 // Ocorreu um erro ao consultar o banco de dados Firebase, mostrar mensagem de erro
                 Toast.makeText(Login.this, "Erro ao consultar o banco de dados Firebase", Toast.LENGTH_SHORT).show();
             }
+
         });
     }
 }
