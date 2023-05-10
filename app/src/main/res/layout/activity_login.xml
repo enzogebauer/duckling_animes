@@ -25,7 +25,8 @@
             android:id="@+id/email"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="@string/email" />
+            android:hint="@string/email"
+            android:importantForAutofill="no"/>
     </com.google.android.material.textfield.TextInputLayout>
     <com.google.android.material.textfield.TextInputLayout
         android:layout_width="match_parent"
@@ -35,6 +36,7 @@
             android:hint="@string/senha"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:inputType="textPassword"
             />
     </com.google.android.material.textfield.TextInputLayout>
 
@@ -42,5 +44,8 @@
         android:id="@+id/btn_login"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginTop="40px"
+        android:layout_gravity="right"
         android:text="@string/login" />
+
 </LinearLayout>

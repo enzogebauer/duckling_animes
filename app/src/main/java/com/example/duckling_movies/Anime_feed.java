@@ -6,15 +6,18 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.ListView;
 
 public class Anime_feed extends AppCompatActivity {
     Button btn_voltar, btn_gerenciar_animes;
+    ListView lv_animes_feed;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_anime_feed);
         btn_voltar = findViewById(R.id.btn_voltar);
         btn_gerenciar_animes = findViewById(R.id.btn_gerenciar_animes);
+        lv_animes_feed = findViewById(R.id.list_view_animes_feed);
 
         btn_gerenciar_animes.setOnClickListener(new View.OnClickListener() {
             @Override

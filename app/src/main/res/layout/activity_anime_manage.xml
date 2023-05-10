@@ -4,7 +4,6 @@
         xmlns:tools="http://schemas.android.com/tools"
         android:layout_width="match_parent"
         android:orientation="vertical"
-
         android:padding="25dp"
         android:layout_height="match_parent"
         tools:context=".AnimeManage">
@@ -20,6 +19,7 @@
         android:layout_gravity="center"/>
 
     <ListView
+        android:id="@+id/list_view_animes_manage"
         android:layout_width="343dp"
         android:layout_height="326dp"
         android:layout_gravity="center"

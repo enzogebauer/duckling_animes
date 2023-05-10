@@ -9,8 +9,8 @@
     android:layout_height="match_parent"
     tools:context=".Anime_feed">
 
-
     <ListView
+        android:id="@+id/list_view_animes_feed"
         android:layout_width="match_parent"
         android:layout_height="527dp"
         android:gravity="bottom"></ListView>
@@ -24,7 +24,6 @@
         android:layout_gravity="bottom|end"
         tools:layout_editor_absoluteY="587dp"
         android:layout_marginTop="50dp"
-
         />
 
     <Button
