@@ -12,7 +12,7 @@
     <ListView
         android:id="@+id/list_view_animes_feed"
         android:layout_width="match_parent"
-        android:layout_height="527dp"
+        android:layout_height="518dp"
         android:gravity="bottom"></ListView>
 
     <Button
@@ -31,7 +31,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="bottom|end"
-        android:text="Voltar"
+        android:text="Log Out"
         android:layout_marginTop="10dp"
         tools:layout_editor_absoluteX="292dp"
         tools:layout_editor_absoluteY="659dp" />

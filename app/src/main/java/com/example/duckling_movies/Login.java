@@ -75,6 +75,7 @@ public class Login extends AppCompatActivity {
                             // Senha correta, fazer o login
                             Toast.makeText(Login.this, "Login realizado com sucesso", Toast.LENGTH_SHORT).show();
                             RedirecionaLogin();
+                            GlobalVariables.RA_atual = usuario.getMatricula();
                             senhaCorreta = true;
                             break;
                         }

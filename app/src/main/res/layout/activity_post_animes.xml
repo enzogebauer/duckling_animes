@@ -21,6 +21,7 @@
         android:layout_margin="10dp"/>
 
     <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/ano_anime"
         android:layout_width="409dp"
         android:layout_height="wrap_content"
         tools:layout_editor_absoluteX="1dp"
@@ -50,6 +51,7 @@
         tools:layout_editor_absoluteY="106dp">
 
         <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/nome_anime"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="Nome do Anime" />
