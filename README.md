@@ -18,42 +18,44 @@
 
 ## About 🤔:
 
+Duckling Animes is a mobile app that combines the features of a social network with a cloud-based SQL database on Firebase. It was developed as a project for the LP3 discipline at SENAI CIMATEC during the first semester of 2023. Users can create accounts, like each other's anime posts, and share their top four animes. Additionally, users have the ability to delete their own anime posts. It provides a unique platform for anime enthusiasts to connect, interact, and showcase their favorite anime content.
+
 ## Resourses 🧑‍🔬:
 
-- 
-- 
+- Cloud-based SQL database using Firebase: Enables storing and managing user data such as account information, liked animes, and posted animes.
+
+- User account creation and login: Users can create their accounts and log in to access the app's features and personalized settings.
+
+- Liking animes: Users can express their appreciation for other users' animes by liking them. This feature promotes engagement and interaction within the community.
+
+- Managing util 4 animes: Users can share up to four of their favorite animes by uploading, release date and name. This allows for visual and interactive experiences for the community and flexibility and control over the content shared on the platform. 
 
 ## Dependencies 🚚:
 
-The project dependencies are described in a dependencies file within the repository. In summary, heres what you're gonna need in order to run the project:
+In summary, heres what you're gonna need in order to run the project:
 
-- 
-- 
-
-For installing dependencies more quickly, you can run the following command at terminal, inside the clonned repository:
-
-    pip3 install -r ./dependencies/requirements.txt
+- google-services:4.3.3.
 
 Make sure you have all Dependencies before running the project.
 
 ## How to run it 🏃:
 
-First, clone this repository. After that, simply execute the ```file_name``` file with the command:
-
-    sudo command_for_running_project
+First, clone this repository. After that, simply open the project with [Android Studio Flamingo](https://developer.android.com/studio?gclid=CjwKCAjwkLCkBhA9EiwAka9QRtoH0l_XcBFvl26AViadXiql6u4y5SU_ButKWTrG-Pt4bFONq_IkhBoC01QQAvD_BwE&gclsrc=aw.ds) then using it mobile emulator to run the application. 
 
 ## How to install 🔬:
 
+Open the project with [Android Studio Flamingo](https://developer.android.com/studio?gclid=CjwKCAjwkLCkBhA9EiwAka9QRtoH0l_XcBFvl26AViadXiql6u4y5SU_ButKWTrG-Pt4bFONq_IkhBoC01QQAvD_BwE&gclsrc=aw.ds), then use its own resource to build the applicattion into and .apk file.
+
 ## Screens 🎬:
 
-<app_name> screens were developed to turn out like [figma](link_for_figma) screens:
+Duckling Animes screens were developed to turn out like [figma](https://www.figma.com/file/Vd1AuUZ97QO60LM4jriRUI/DunklingAnimes?type=design&node-id=0-1&t=iFcvM94IcnycrYPe-0) screens:
 
 <div align="center">
 	<a href="">
-	<img height = "250em" src = "" />
+	<img height = "250em" src = "" /> 
     </a>
 </div>
-<h4 align="center">Figure 1 - Screens from <app_name> </h4>
+<h4 align="center">Figure 1 - Screens from Duckling Animes.</h4>
 
 
 ## UML‍ 💬:
@@ -65,7 +67,7 @@ Heres the UML that represents how the application works with their classes.
 	<img height = "250em" src = "" />
     </a>
 </div>
-<h4 align="center">Figure 2 - <app_name> UML.</h4>
+<h4 align="center">Figure 2 - Duckling Animes UML.</h4>
 
 
 ## Database 🗃️:
