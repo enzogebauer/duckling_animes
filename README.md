@@ -16,22 +16,12 @@
 ## Special thanks to 🥰:
 - [Edson Mota](https://github.com/edsonmottac), Our supervising teacher, your experience and knowledge have been invaluable to our progress.
 
-
 ## About 🤔:
 
 ## Resourses 🧑‍🔬:
 
 - 
 - 
-
-
-## Results 📈:
-
-## Routes 🛣️:
-Every Route from the API can be found in [swagger](). 
-
--
--
 
 ## Dependencies 🚚:
 
@@ -94,20 +84,13 @@ Developers used [Trello]() to get things organized, each one using their own bra
 
 ### Tools Used 🛠️: 
 
-- [Tool](http:link.com). 
-- 
-- 
+- [Android Studio Flamingo](https://developer.android.com/studio?gclid=CjwKCAjwkLCkBhA9EiwAka9QRtoH0l_XcBFvl26AViadXiql6u4y5SU_ButKWTrG-Pt4bFONq_IkhBoC01QQAvD_BwE&gclsrc=aw.ds). 
+- [Firebase](https://firebase.google.com/?hl=pt).
 
 ## How to contribute 🫂:
 
-Feel free to create a new branch, fork the project, create a new Issue or make a pull request contact one of us to develop at <app_name>.
+Feel free to create a new branch, fork the project, create a new Issue or make a pull request contact one of us to develop at Duckling animes.
 
 ## Licence 📜:
 
 [Apache V2](https://choosealicense.com/licenses/apache-2.0/)
-
-## References 📙:
-	
-[1] <last_author_name>, <first_author_name>. <work_title>. XX/XX/XX.
-	
-[2] <work_title>, <author_name>. Avaliable in: <https://www.link.com>. Access in em XX/XX/XX.
