@@ -44,7 +44,7 @@ First, clone this repository. After that, simply open the project with [Android 
 
 ## How to install 🔬:
 
-Open the project with [Android Studio Flamingo](https://developer.android.com/studio?gclid=CjwKCAjwkLCkBhA9EiwAka9QRtoH0l_XcBFvl26AViadXiql6u4y5SU_ButKWTrG-Pt4bFONq_IkhBoC01QQAvD_BwE&gclsrc=aw.ds), then use its own resource to build the applicattion into and .apk file.
+Open the project with [Android Studio Flamingo](https://developer.android.com/studio?gclid=CjwKCAjwkLCkBhA9EiwAka9QRtoH0l_XcBFvl26AViadXiql6u4y5SU_ButKWTrG-Pt4bFONq_IkhBoC01QQAvD_BwE&gclsrc=aw.ds), then use its own resource (Build > Generate Signed Bundle or APK) to build the applicattion into and .apk file.
 
 ## Screens 🎬:
 
@@ -74,7 +74,7 @@ Heres the UML that represents how the application works with their classes.
 
 <div align="center">
 	<a href="">
-	<img height = "250em" src = "" />
+	<img height = "250em" src = "https://github.com/enzogebauer/Duckling-Animes/assets/80331486/8988d003-72b9-47ea-95da-b1c401829b2f" />
     </a>
 </div>
 
@@ -82,12 +82,14 @@ Heres the UML that represents how the application works with their classes.
 
 ## Development Process ⚙️:
 
-Developers used [Trello]() to get things organized, each one using their own branch to code, using names to identify the commit type then merginng the features into develop branch. After testing, the group update the main branch. This application was developed in xx/xx/20xx until xx/xx/20xx.
+Developers used their own branch to code, using names to identify the commit type then merginng the features into develop branch. After testing, the group update the main branch. This application was developed in five days.
 
 ### Tools Used 🛠️: 
 
 - [Android Studio Flamingo](https://developer.android.com/studio?gclid=CjwKCAjwkLCkBhA9EiwAka9QRtoH0l_XcBFvl26AViadXiql6u4y5SU_ButKWTrG-Pt4bFONq_IkhBoC01QQAvD_BwE&gclsrc=aw.ds). 
 - [Firebase](https://firebase.google.com/?hl=pt).
+- [Miro](https://miro.com/).
+- [Figma](https://www.figma.com/).
 
 ## How to contribute 🫂:
 
