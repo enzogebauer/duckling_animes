@@ -13,3 +13,48 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Android build folder
+/build/
+
+# Gradle build folder
+/.gradle/
+
+# Local configuration file (do not track)
+/local.properties
+
+# IDE-specific files
+.idea/
+*.iml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/dictionaries
+
+# Generated files
+app/release/
+
+# Build generated files
+/app/build/
+
+# Android Studio Navigation editor
+/.navigation/
+
+# Mac OS specific files
+.DS_Store
+
+# Visual Studio Code
+.vscode/
+
+# Android Studio Emulator
+*.ini
+*.vmoptions
+*.hprof
+
+
