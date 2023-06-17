@@ -12,6 +12,7 @@
 - [Fernando Schettini](https://github.com/FernandoSchett).
 - [Antonio Horácio Magalhães](https://github.com/AntonioHoracio77).
 - [Orlando Mota Pires](https://github.com/orlandomotapires).
+- [Enzo Gebauer](https://github.com/enzogebauer).
 
 ## Special thanks to 🥰:
 - [Edson Mota](https://github.com/edsonmottac), Our supervising teacher, your experience and knowledge have been invaluable to our progress.
