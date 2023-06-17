@@ -49,7 +49,7 @@ Open the project with [Android Studio Flamingo](https://developer.android.com/st
 
 ## Screens 🎬:
 
-Duckling Animes screens were developed to turn out like [figma](https://www.figma.com/file/Vd1AuUZ97QO60LM4jriRUI/DunklingAnimes?type=design&node-id=0-1&t=iFcvM94IcnycrYPe-0) screens:
+Duckling Animes screens were developed to turn out like [figma](https://www.figma.com/file/Vd1AuUZ97QO60LM4jriRUI/duckling_animes?type=design&node-id=0%3A1&t=HvRbkv4Iwhah3Gh1-1) screens:
 
 <div align="center">
 	<a href="">
