@@ -1,23 +1,23 @@
 ### This READ.md template was written based on this [repository](https://github.com/FernandoSchett/github_readme_template).
 
-<h1 align="center">🟠 Application Title 🟠</h1>
+<h1 align="center">🦊 Duckling Animes 🦊</h1>
 
 <div align="center">
-	<a href="link_for_webite">
+	<a href="https://www.youtube.com/watch?v=3GFW8_c4fTM&ab_channel=COEL6252">
 	<img height = "250em" src = "" />
     </a>
 </div>
 
 ## Developed by 💻:
-- [<you_name>](https://github.com/FernandoSchett).
+- [Fernando Schettini](https://github.com/FernandoSchett).
+- [Antonio Horácio Magalhães](https://github.com/AntonioHoracio77).
+- [Orlando Mota Pires](https://github.com/orlandomotapires).
 
 ## Special thanks to 🥰:
-- [<person_name>](https://github.com/<profile_username>), Your experience and knowledge have been invaluable to our progress.
+- [Edson Mota](https://github.com/edsonmottac), Our supervising teacher, your experience and knowledge have been invaluable to our progress.
 
 
 ## About 🤔:
-
-## Summary 📝:
 
 ## Resourses 🧑‍🔬:
 
