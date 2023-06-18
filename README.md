@@ -35,7 +35,7 @@ Duckling Animes is a mobile app that combines the features of a social network w
 
 In summary, heres what you're gonna need in order to run the project:
 
-- google-services:4.3.3.
+- ```google-services:4.3.3```.
 
 Make sure you have all Dependencies before running the project.
 
