@@ -53,7 +53,7 @@ Duckling Animes screens were developed to turn out like [figma](https://www.figm
 
 <div align="center">
 	<a href="">
-	<img height = "250em" src = "" /> 
+	<img height = "250em" src = "https://github.com/FernandoSchett/github_readme_template/assets/80331486/4e4d24ee-efce-41d9-873b-3ececaf1cdd5" /> 
     </a>
 </div>
 <h4 align="center">Figure 1 - Screens from Duckling Animes.</h4>
@@ -65,7 +65,7 @@ Heres the UML that represents how the application works with their classes.
 
 <div align="center">
 	<a href="">
-	<img height = "250em" src = "" />
+	<img height = "250em" src = "https://github.com/FernandoSchett/github_readme_template/assets/80331486/4e4d24ee-efce-41d9-873b-3ececaf1cdd5" />
     </a>
 </div>
 <h4 align="center">Figure 2 - Duckling Animes UML.</h4>
